@@ -1,0 +1,10 @@
+Tae Eun Kim:
+  name: "김태은"
+  avatar: "/assets/images/members/taeeun.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:taeeun.kim@kaist.ac.kr"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://goodtaeeun.github.io/"

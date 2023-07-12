@@ -1,0 +1,8 @@
+- title: "DAFL: Directed Grey-box Fuzzing guided by Data Dependency"
+  author: [ "Tae Eun Kim", "Jaeseung Choi", "Kihong Heo", "Sang Kil Cha"]
+  venue: "Security 2023: USENIX Security Symposium"
+  venue_link: "https://www.usenix.org/conference/usenixsecurity23"
+  year: 2023
+  paper: "assets/papers/sec23.pdf"
+  slides: "sec23-slides.pdf"
+  type: "conference"
