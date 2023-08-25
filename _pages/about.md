@@ -41,7 +41,7 @@ Teaching experience
   * CS524: Program Analysis (Fall 2022)
   * CS348: Introduction to Information Security (Spring 2022)
 
-* __Teaching Assistant at Handong University, Daejeon, Korea__ (2020 - 2021)
+* __Teaching Assistant at Handong University, Korea__ (2020 - 2021)
   * ITP40002: Software Engineering (Spring 2021)
   * ITP20005: Programming Language Theory (Fall 2020)
 
