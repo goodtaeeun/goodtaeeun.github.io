@@ -19,10 +19,10 @@ My current research interests are in the intersection of Static Analysis and Dyn
 Publications
 ======
 
-__USENIXSEC-23__ (To appear)<br/>
+__USENIX Security Symposium, 2023__<br/>
 _DAFL: Directed Grey-box Fuzzing guided by Data Dependency_<br/>
 **_Tae Eun Kim_**, Jaeseung Choi, Kihong Heo, Sang Kil Cha<br/>
-[paper](/assets/papers/sec23.pdf)
+[[paper](/assets/papers/sec23.pdf)] [[slide](/assets/papers/sec23-slide.pdf)] [[talk](https://youtu.be/GLYDGX3tcUY)]
 
 
 <!-- Research experience
@@ -69,4 +69,4 @@ Education
 Other
 ======
 * Posts: I write posts for the academic trips I have taken. You can find them [here](/posts/).
-* Hobbies: I like to sing, read books, watch movies, and play judo.
+* Hobbies: I like to [sing](https://youtu.be/AJe5lLqCsr0?si=uCO_mbRG6OTIgmJw), read books, watch movies, and play judo.
