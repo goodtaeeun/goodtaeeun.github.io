@@ -4,6 +4,6 @@
   venue_link: "https://www.usenix.org/conference/usenixsecurity23"
   year: 2023
   paper: "assets/papers/sec23.pdf"
-  slides: "sec23-slides.pdf"
+  slides: "assets/papers/sec23-slides.pdf"
   video: "https://youtu.be/GLYDGX3tcUY"
   type: "conference"

@@ -22,7 +22,7 @@ Publications
 __USENIX Security Symposium, 2023__<br/>
 _DAFL: Directed Grey-box Fuzzing guided by Data Dependency_<br/>
 **_Tae Eun Kim_**, Jaeseung Choi, Kihong Heo, Sang Kil Cha<br/>
-[[paper](/assets/papers/sec23.pdf)] [[slide](/assets/papers/sec23-slide.pdf)] [[talk](https://youtu.be/GLYDGX3tcUY)]
+[[paper](/assets/papers/sec23.pdf)] [[slide](/assets/papers/sec23-slides.pdf)] [[talk](https://youtu.be/GLYDGX3tcUY)]
 
 
 <!-- Research experience
