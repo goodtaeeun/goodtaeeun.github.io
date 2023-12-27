@@ -20,9 +20,9 @@ Publications
 ======
 
 __USENIX Security Symposium, 2023__<br/>
-_DAFL: Directed Grey-box Fuzzing guided by Data Dependency_<br/>
+_DAFL: Directed Grey-box Fuzzing Guided by Data Dependency_<br/>
 **_Tae Eun Kim_**, Jaeseung Choi, Kihong Heo, Sang Kil Cha<br/>
-[[paper](/assets/papers/sec23.pdf)] [[slide](/assets/papers/sec23-slides.pdf)] [[talk](https://youtu.be/GLYDGX3tcUY)]
+[[paper](/assets/papers/sec23.pdf)] [[slide](/assets/papers/sec23-slides.pdf)] [[talk](https://www.youtube.com/watch?v=BjtKhyzLtyo)]
 
 
 <!-- Research experience
@@ -38,6 +38,7 @@ _DAFL: Directed Grey-box Fuzzing guided by Data Dependency_<br/>
 Teaching experience
 ======
 * __Teaching Assistant at KAIST, Korea__ (2022 - )
+  * CS492: Program Reasoning (Fall 2023)
   * CS524: Program Analysis (Fall 2022)
   * CS348: Introduction to Information Security (Spring 2022)
 
