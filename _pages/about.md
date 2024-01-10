@@ -69,5 +69,5 @@ Education
 
 Other
 ======
-* Posts: I write posts for the academic trips I have taken. You can find them [here](/posts/).
+* Posts: I write posts for the academic trips I have taken. There are also posts from my bi-weekly writing practice in my first year in graduate school. You can find them [here](/posts/).
 * Hobbies: I like to [sing](https://youtu.be/AJe5lLqCsr0?si=uCO_mbRG6OTIgmJw), read books, watch movies, and play judo.
