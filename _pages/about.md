@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /index/
@@ -18,12 +17,15 @@ My current research interests are in the intersection of Static Analysis and Dyn
 
 Publications
 ======
+__Evaluating Directed Fuzzers: Are We Heading in the Right Direction?__<br/>
+_Tae Eun Kim_, Jaeseung Choi, Seongjae Im, Kihong Heo, and Sang Kil Cha<br/>
+_International Conference on the Foundations of Software Engineering, 2024_<br/>
+[[paper](/assets/papers/fse24.pdf)] [[slide](/assets/papers/fse24-slides.pdf)] [[talk]()]
 
-__USENIX Security Symposium, 2023__<br/>
-_DAFL: Directed Grey-box Fuzzing Guided by Data Dependency_<br/>
-**_Tae Eun Kim_**, Jaeseung Choi, Kihong Heo, Sang Kil Cha<br/>
+__DAFL: Directed Grey-box Fuzzing Guided by Data Dependency__<br/>
+_Tae Eun Kim_, Jaeseung Choi, Kihong Heo, Sang Kil Cha<br/>
+_USENIX Security Symposium, 2023_<br/>
 [[paper](/assets/papers/sec23.pdf)] [[slide](/assets/papers/sec23-slides.pdf)] [[talk](https://www.youtube.com/watch?v=BjtKhyzLtyo)]
-
 
 <!-- Research experience
 ======
@@ -35,14 +37,14 @@ _DAFL: Directed Grey-box Fuzzing Guided by Data Dependency_<br/>
 
 <br/><br/>
 
-Teaching experience
+Teaching experiences
 ======
 * __Teaching Assistant at KAIST, Korea__ (2022 - )
   * CS492: Program Reasoning (Fall 2023)
   * CS524: Program Analysis (Fall 2022)
   * CS348: Introduction to Information Security (Spring 2022)
 
-* __Teaching Assistant at Handong University, Korea__ (2020 - 2021)
+* __Teaching Assistant at Handong Global University, Korea__ (2020 - 2021)
   * ITP40002: Software Engineering (Spring 2021)
   * ITP20005: Programming Language Theory (Fall 2020)
 
@@ -63,11 +65,20 @@ Education
 ======
 * __Ph.D in Computer Science__, KAIST, Korea, (2023 - )
 * __M.S. in Computer Science__, KAIST, Korea (2021 - 2023)
-* __B.S. in Computer Science and Counseling Psychology__, Handong University, Korea (2014 - 2021)
+* __B.S. in Computer Science and Counseling Psychology__, Salutatorian, Handong Global University, Korea (2014 - 2021)
+
+<br/><br/>
+
+Awards
+======
+* __Outstanding MS Thesis Award__, School of Computing, KAIST (2024)
+* __Outstanding Teaching Assistant Award__, School of Computing, KAIST (2023)
+
+
 
 <br/><br/>
 
 Other
 ======
-* Posts: I write posts for the academic trips I have taken. There are also posts from my bi-weekly writing practice in my first year in graduate school. You can find them [here](/posts/).
+* Posts: I write posts for the academic trips I have taken. There are also posts from my bi-weekly writing practice in my first year of graduate school. You can find them [here](/posts/).
 * Hobbies: I like to [sing](https://youtu.be/AJe5lLqCsr0?si=uCO_mbRG6OTIgmJw), read books, watch movies, and play judo.

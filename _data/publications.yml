@@ -1,3 +1,13 @@
+- title: "Evaluating Directed Fuzzers: Are We Heading in the Right Direction?"
+  author: [ "Tae Eun Kim", "Jaeseung Choi", "Seongjae Im", "Kihong Heo", "Sang Kil Cha"]
+  venue: "FSE 2024: International Conference on the Foundations of Software Engineering"
+  venue_link: "https://conf.researchr.org/home/fse-2024"
+  paper: "assets/papers/fse24.pdf"
+  slides: "assets/papers/fse24-slides.pdf"
+  video: ""
+  year: 2024
+  type: "conference"
+
 - title: "DAFL: Directed Grey-box Fuzzing guided by Data Dependency"
   author: [ "Tae Eun Kim", "Jaeseung Choi", "Kihong Heo", "Sang Kil Cha"]
   venue: "Security 2023: USENIX Security Symposium"
