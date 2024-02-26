@@ -65,7 +65,7 @@ Education
 ======
 * __Ph.D in Computer Science__, KAIST, Korea, (2023 - )
 * __M.S. in Computer Science__, KAIST, Korea (2021 - 2023)
-* __B.S. in Computer Science and Counseling Psychology__, Salutatorian, Handong Global University, Korea (2014 - 2021)
+* __B.S. in Computer Science and Counseling Psychology__, Summa Cum Laude, Handong Global University, Korea (2014 - 2021)
 
 <br/><br/>
 
