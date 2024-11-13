@@ -1,3 +1,11 @@
+- title: "Improving Fault Localization with External Oracle by using Counterfactual Execution"
+  author: [ "Jongchan Park", "Tae Eun Kim", "Dongsun Kim", "Kihong Heo" ]
+  venue: "TOSEM: ACM Transactions on Software Engineering and Methodology"
+  venue_link: "https://dl.acm.org/journal/tosem"
+  year: 2024
+  paper: "tosem24.pdf"
+  type: "journal"
+
 - title: "Evaluating Directed Fuzzers: Are We Heading in the Right Direction?"
   author: [ "Tae Eun Kim", "Jaeseung Choi", "Seongjae Im", "Kihong Heo", "Sang Kil Cha"]
   venue: "FSE 2024: International Conference on the Foundations of Software Engineering"

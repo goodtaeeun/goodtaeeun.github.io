@@ -9,7 +9,7 @@ classes: wide
 ---
 
 Hi, my name is Tae Eun.
-I am a second-year Ph.D student at KAIST.
+I am a second-year Ph.D student at KAIST, a member of [Programming Systems Lab](https://prosys.kaist.ac.kr/).
 I am grateful to be advised by [Prof. Kihong Heo](https://kihongheo.kaist.ac.kr/).
 My current research interests are in the intersection of Static Analysis and Dynamic Analysis, which are each represented as Program Analysis and Fuzzing, respectively.
 
@@ -17,15 +17,20 @@ My current research interests are in the intersection of Static Analysis and Dyn
 
 Publications
 ======
+__Improving Fault Localization with External Oracle by using Counterfactual Execution__<br/>
+Jongchan Park, __Tae Eun Kim__, Dongsun Kim, Kihong Heo<br/>
+_ACM Transactions on Software Engineering and Methodology, 2024 (to appear)_<br/>
+[[paper](/assets/papers/tosem24.pdf)]
+
 __Evaluating Directed Fuzzers: Are We Heading in the Right Direction?__<br/>
-_Tae Eun Kim_, Jaeseung Choi, Seongjae Im, Kihong Heo, and Sang Kil Cha<br/>
+__Tae Eun Kim__, Jaeseung Choi, Seongjae Im, Kihong Heo, and Sang Kil Cha<br/>
 _International Conference on the Foundations of Software Engineering, 2024_<br/>
 [[paper](/assets/papers/fse24.pdf)] [[slide](/assets/papers/fse24-slides.pdf)] [[talk (in Korean)](https://www.youtube.com/watch?v=47ctcX1V4_0&t=2s)]
 
 __DAFL: Directed Grey-box Fuzzing Guided by Data Dependency__<br/>
-_Tae Eun Kim_, Jaeseung Choi, Kihong Heo, Sang Kil Cha<br/>
+__Tae Eun Kim__, Jaeseung Choi, Kihong Heo, Sang Kil Cha<br/>
 _USENIX Security Symposium, 2023_<br/>
-[[paper](/assets/papers/sec23.pdf)] [[slide](/assets/papers/sec23-slides.pdf)] [[talk](https://www.youtube.com/watch?v=BjtKhyzLtyo)]
+[[paper](/assets/papers/sec23.pdf)] [[slide](/assets/papers/sec23-slides.pdf)] [[talk](https://www.youtube.com/watch?v=BjtKhyzLtyo)] [[song](https://youtu.be/tI6umHgKTL8)]
 
 <!-- Research experience
 ======
