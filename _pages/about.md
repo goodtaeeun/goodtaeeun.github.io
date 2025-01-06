@@ -40,22 +40,6 @@ _USENIX Security Symposium, 2023_<br/>
 * __Research Assistant at Utah State University, Logan, UT, USA__ (2014 - 2017)
   * Develop defect prediction techniques and source code embeddings  -->
 
-<br/><br/>
-
-Teaching experiences
-======
-* __Teaching Assistant at KAIST, Korea__ (2022 - )
-  * CS524: Program Analysis (Spring 2024)
-  * CS492: Program Reasoning (Fall 2023)
-  * CS524: Program Analysis (Fall 2022)
-  * CS348: Introduction to Information Security (Spring 2022)
-
-* __Teaching Assistant at Handong Global University, Korea__ (2020 - 2021)
-  * ITP40002: Software Engineering (Spring 2021)
-  * ITP20005: Programming Language Theory (Fall 2020)
-
-<br/><br/>
-
 <!-- Industry experience
 ======
 * __Research Intern at Microsoft Research, Redmond, WA, US__ (2021)
@@ -66,6 +50,8 @@ Teaching experiences
 
 * __Java developer at Calypso Technology, Brighton, UK__ (2009 - 2011)
   * Work as a Java developer in a team working on products that optimize investment portfolios using generic algorithms -->
+
+<br/><br/>
 
 Education
 ======
@@ -80,7 +66,25 @@ Awards
 * __Outstanding MS Thesis Award__, School of Computing, KAIST (2024)
 * __Outstanding Teaching Assistant Award__, School of Computing, KAIST (2023)
 
+<br/><br/>
 
+Service
+======
+* __Journal Reviewer__
+  * ACM Transactions on Software Engineering and Methodology (TOSEM) (2024)
+
+<br/><br/>
+
+Teaching experiences
+======
+* __Teaching Assistant at KAIST, Korea__ (2022 - )
+  * CS524: Program Analysis (Fall 2022, Spring 2024)
+  * CS492: Program Reasoning (Fall 2023)
+  * CS348: Introduction to Information Security (Spring 2022, Spring 2025)
+
+* __Teaching Assistant at Handong Global University, Korea__ (2020 - 2021)
+  * ITP40002: Software Engineering (Spring 2021)
+  * ITP20005: Programming Language Theory (Fall 2020)
 
 <br/><br/>
 
