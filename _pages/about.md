@@ -19,7 +19,7 @@ Publications
 ======
 __Improving Fault Localization with External Oracle by using Counterfactual Execution__<br/>
 Jongchan Park, __Tae Eun Kim__, Dongsun Kim, Kihong Heo<br/>
-_ACM Transactions on Software Engineering and Methodology, 2024 (to appear)_<br/>
+_ACM Transactions on Software Engineering and Methodology, 2024_<br/>
 [[paper](/assets/papers/tosem24.pdf)]
 
 __Evaluating Directed Fuzzers: Are We Heading in the Right Direction?__<br/>
