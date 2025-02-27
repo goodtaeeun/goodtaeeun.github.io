@@ -68,10 +68,12 @@ Awards
 
 <br/><br/>
 
-Service
+Academic Services
 ======
 * __Journal Reviewer__
   * ACM Transactions on Software Engineering and Methodology (TOSEM) (2024)
+* __Artifact Evaluation Committee__
+  * ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA) (2025)
 
 <br/><br/>
 
