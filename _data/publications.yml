@@ -3,7 +3,7 @@
   venue: "TOSEM: ACM Transactions on Software Engineering and Methodology"
   venue_link: "https://dl.acm.org/journal/tosem"
   year: 2024
-  paper: "tosem24.pdf"
+  paper: "assets/papers/tosem24.pdf"
   type: "journal"
 
 - title: "Evaluating Directed Fuzzers: Are We Heading in the Right Direction?"
