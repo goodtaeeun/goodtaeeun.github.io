@@ -1,0 +1,7 @@
+.sidebar,
+.sidebar:hover,
+.sidebar .h-card,
+.sidebar .h-card:hover {
+    opacity: 1 !important;
+    transition: none !important;
+}
