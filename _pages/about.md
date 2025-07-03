@@ -9,7 +9,7 @@ classes: wide
 ---
 
 Hi, my name is Tae Eun.
-I am a second-year Ph.D student at KAIST, a member of [Programming Systems Lab](https://prosys.kaist.ac.kr/).
+I am a third-year Ph.D student at KAIST, a member of [Programming Systems Lab](https://prosys.kaist.ac.kr/).
 I am grateful to be advised by [Prof. Kihong Heo](https://kihongheo.kaist.ac.kr/).
 My current research interests are in the intersection of Static Analysis and Dynamic Analysis, which are each represented as Program Analysis and Fuzzing, respectively.
 
