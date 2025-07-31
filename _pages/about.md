@@ -64,7 +64,7 @@ Education
 Awards
 ======
 * __Outstanding MS Thesis Award__, School of Computing, KAIST (2024)
-* __Outstanding Teaching Assistant Award__, School of Computing, KAIST (2023)
+* __Outstanding Teaching Assistant Award__, School of Computing, KAIST (Fall 2022, Spring 2025)
 
 <br/><br/>
 
