@@ -5,7 +5,7 @@ author: Tae Eun Kim
 kor_author: 김태은
 tags:
   - Miscellaneous
-
+classes: wide
 ---
 
 혹시 대단한 내용을 기대하고 들어왔다면 미리 양해를 구한다.
