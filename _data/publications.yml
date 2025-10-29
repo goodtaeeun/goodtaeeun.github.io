@@ -1,13 +1,20 @@
 - title: "Improving Fault Localization with External Oracle by using Counterfactual Execution"
-  author: [ "Jongchan Park", "Tae Eun Kim", "Dongsun Kim", "Kihong Heo" ]
+  author: ["Jongchan Park", "Tae Eun Kim", "Dongsun Kim", "Kihong Heo"]
   venue: "TOSEM: ACM Transactions on Software Engineering and Methodology"
   venue_link: "https://dl.acm.org/journal/tosem"
-  year: 2024
-  paper: "assets/papers/tosem24.pdf"
+  year: 2025
+  paper: "assets/papers/tosem25.pdf"
   type: "journal"
 
 - title: "Evaluating Directed Fuzzers: Are We Heading in the Right Direction?"
-  author: [ "Tae Eun Kim", "Jaeseung Choi", "Seongjae Im", "Kihong Heo", "Sang Kil Cha"]
+  author:
+    [
+      "Tae Eun Kim",
+      "Jaeseung Choi",
+      "Seongjae Im",
+      "Kihong Heo",
+      "Sang Kil Cha",
+    ]
   venue: "FSE 2024: International Conference on the Foundations of Software Engineering"
   venue_link: "https://conf.researchr.org/home/fse-2024"
   paper: "assets/papers/fse24.pdf"
@@ -17,7 +24,7 @@
   type: "conference"
 
 - title: "DAFL: Directed Grey-box Fuzzing guided by Data Dependency"
-  author: [ "Tae Eun Kim", "Jaeseung Choi", "Kihong Heo", "Sang Kil Cha"]
+  author: ["Tae Eun Kim", "Jaeseung Choi", "Kihong Heo", "Sang Kil Cha"]
   venue: "Security 2023: USENIX Security Symposium"
   venue_link: "https://www.usenix.org/conference/usenixsecurity23"
   year: 2023
