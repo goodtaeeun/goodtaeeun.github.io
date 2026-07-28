@@ -122,3 +122,15 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+repository: "goodtaeeun/goodtaeeun.github.io"
+
+comments:
+  provider: "giscus"
+  giscus:
+    repo_id: "R_kgDOJ15V8w"
+    category_name: "Announcements"
+    category_id: "DIC_kwDOJ15V884DCK45"
+    discussion_term: "pathname"
+    reactions_enabled: "1"
+    theme: "light"
