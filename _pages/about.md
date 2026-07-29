@@ -94,4 +94,4 @@ Teaching Experience
 Other
 ======
 * Writing: I enjoy writing about my thoughts and experiences. My conference travel reports, technical articles, and other writing can be found [here](/posts/).
-* Hobbies: I enjoy [singing](https://youtu.be/AJe5lLqCsr0?si=uCO_mbRG6OTIgmJw), reading books, watching movies, and practicing judo.
+* Hobbies: I enjoy [singing](https://youtu.be/AJe5lLqCsr0?si=uCO_mbRG6OTIgmJw), watching movies, and judo.
