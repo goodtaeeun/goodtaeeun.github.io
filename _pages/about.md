@@ -8,10 +8,10 @@ redirect_from:
 classes: wide
 ---
 
-Hi, my name is Tae Eun.
-I am a fourth-year Ph.D student at KAIST, a member of [Programming Systems Lab](https://prosys.kaist.ac.kr/).
-I am grateful to be advised by [Prof. Kihong Heo](https://kihongheo.kaist.ac.kr/).
-My current research interests are in the intersection of Static Analysis and Dynamic Analysis, which are each represented as Program Analysis and Fuzzing, respectively.
+Hi, my name is Tae Eun Kim.
+I am a fourth-year Ph.D. student at KAIST and a member of the [Programming Systems Laboratory](https://prosys.kaist.ac.kr/).
+I am fortunate to be advised by [Prof. Kihong Heo](https://kihongheo.kaist.ac.kr/).
+My research focuses on combining static program analysis with dynamic testing techniques, particularly fuzzing.
 
 <br/><br/>
 
@@ -25,12 +25,12 @@ _ACM Transactions on Software Engineering and Methodology, 2025_<br/>
 __Evaluating Directed Fuzzers: Are We Heading in the Right Direction?__<br/>
 __Tae Eun Kim__, Jaeseung Choi, Seongjae Im, Kihong Heo, and Sang Kil Cha<br/>
 _International Conference on the Foundations of Software Engineering, 2024_<br/>
-[[paper](/assets/papers/fse24.pdf)] [[slide](/assets/papers/fse24-slides.pdf)] [[talk (in Korean)](https://www.youtube.com/watch?v=47ctcX1V4_0&t=2s)]
+[[paper](/assets/papers/fse24.pdf)] [[slides](/assets/papers/fse24-slides.pdf)] [[talk (in Korean)](https://www.youtube.com/watch?v=47ctcX1V4_0&t=2s)]
 
 __DAFL: Directed Grey-box Fuzzing Guided by Data Dependency__<br/>
 __Tae Eun Kim__, Jaeseung Choi, Kihong Heo, Sang Kil Cha<br/>
 _USENIX Security Symposium, 2023_<br/>
-[[paper](/assets/papers/sec23.pdf)] [[slide](/assets/papers/sec23-slides.pdf)] [[talk](https://www.youtube.com/watch?v=BjtKhyzLtyo)] [[song](https://youtu.be/tI6umHgKTL8)]
+[[paper](/assets/papers/sec23.pdf)] [[slides](/assets/papers/sec23-slides.pdf)] [[talk](https://www.youtube.com/watch?v=BjtKhyzLtyo)] [[song](https://youtu.be/tI6umHgKTL8)]
 
 <!-- Research experience
 ======
@@ -55,9 +55,9 @@ _USENIX Security Symposium, 2023_<br/>
 
 Education
 ======
-* __Ph.D in Computer Science__, KAIST, Korea (2023 - )
-* __M.S. in Computer Science__, KAIST, Korea (2021 - 2023)
-* __B.S. in Computer Science and Counseling Psychology__, Summa Cum Laude, Handong Global University, Korea (2014 - 2021)
+* __Ph.D. in Computer Science__, KAIST, Korea (2023–present)
+* __M.S. in Computer Science__, KAIST, Korea (2021–2023)
+* __B.S. in Computer Science and Counseling Psychology__, Summa Cum Laude, Handong Global University, Korea (2014–2021)
 
 <br/><br/>
 
@@ -68,24 +68,24 @@ Awards
 
 <br/><br/>
 
-Academic Services
+Academic Service
 ======
 * __Journal Reviewer__
   * ACM Transactions on Software Engineering and Methodology (TOSEM) (2024)
   * Journal of Software Testing, Verification and Reliability (STVR) (2026)
 * __Artifact Evaluation Committee__
-  * ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA) (2025,2026)
+  * ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA) (2025, 2026)
 
 <br/><br/>
 
-Teaching experiences
+Teaching Experience
 ======
-* __Teaching Assistant at KAIST, Korea__ (2022 - )
+* __Teaching Assistant at KAIST, Korea__ (2022–2026)
   * CS524: Program Analysis (Fall 2022, Spring 2024, Spring 2026)
   * CS492: Program Reasoning (Fall 2023)
   * CS348: Introduction to Information Security (Spring 2022, Spring 2025)
 
-* __Teaching Assistant at Handong Global University, Korea__ (2020 - 2021)
+* __Teaching Assistant at Handong Global University, Korea__ (2020–2021)
   * ITP40002: Software Engineering (Spring 2021)
   * ITP20005: Programming Language Theory (Fall 2020)
 
@@ -93,5 +93,5 @@ Teaching experiences
 
 Other
 ======
-* Writing: I like to write about my thoughts and experience. Academic trip reports, technical and miscellaneous writings can be found [here](/posts/).
-* Hobbies: I like to [sing](https://youtu.be/AJe5lLqCsr0?si=uCO_mbRG6OTIgmJw), read books, watch movies, and play judo.
+* Writing: I enjoy writing about my thoughts and experiences. My conference travel reports, technical articles, and other writing can be found [here](/posts/).
+* Hobbies: I enjoy [singing](https://youtu.be/AJe5lLqCsr0?si=uCO_mbRG6OTIgmJw), reading books, watching movies, and practicing judo.
