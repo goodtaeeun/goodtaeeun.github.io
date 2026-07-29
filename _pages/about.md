@@ -9,7 +9,7 @@ classes: wide
 ---
 
 Hi, my name is Tae Eun.
-I am a third-year Ph.D student at KAIST, a member of [Programming Systems Lab](https://prosys.kaist.ac.kr/).
+I am a fourth-year Ph.D student at KAIST, a member of [Programming Systems Lab](https://prosys.kaist.ac.kr/).
 I am grateful to be advised by [Prof. Kihong Heo](https://kihongheo.kaist.ac.kr/).
 My current research interests are in the intersection of Static Analysis and Dynamic Analysis, which are each represented as Program Analysis and Fuzzing, respectively.
 
@@ -72,15 +72,16 @@ Academic Services
 ======
 * __Journal Reviewer__
   * ACM Transactions on Software Engineering and Methodology (TOSEM) (2024)
+  * Journal of Software Testing, Verification and Reliability (STVR) (2026)
 * __Artifact Evaluation Committee__
-  * ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA) (2025)
+  * ACM Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA) (2025,2026)
 
 <br/><br/>
 
 Teaching experiences
 ======
 * __Teaching Assistant at KAIST, Korea__ (2022 - )
-  * CS524: Program Analysis (Fall 2022, Spring 2024)
+  * CS524: Program Analysis (Fall 2022, Spring 2024, Spring 2026)
   * CS492: Program Reasoning (Fall 2023)
   * CS348: Introduction to Information Security (Spring 2022, Spring 2025)
 
@@ -92,5 +93,5 @@ Teaching experiences
 
 Other
 ======
-* Posts: I write posts for the academic trips I have taken. There are also posts from my bi-weekly writing practice in my first year of graduate school. You can find them [here](/posts/).
+* Writing: I like to write about my thoughts and experience. Academic trip reports, technical and miscellaneous writings can be found [here](/posts/).
 * Hobbies: I like to [sing](https://youtu.be/AJe5lLqCsr0?si=uCO_mbRG6OTIgmJw), read books, watch movies, and play judo.
